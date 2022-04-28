@@ -1,0 +1,22 @@
+appdirs==1.4.3
+certifi==2021.10.8
+click @ file:///home/linux1/recipes/ci/click_1610990599742/work
+Flask @ file:///home/ktietz/src/ci/flask_1611932660458/work
+Flask-Cors @ file:///tmp/build/80754af9/flask_cors_1614875208036/work
+gunicorn @ file:///opt/concourse/worker/volumes/live/4799f855-73bc-4b8b-4791-21e54d308628/volume/gunicorn_1615982910927/work
+itsdangerous @ file:///home/ktietz/src/ci/itsdangerous_1611932585308/work
+Jinja2 @ file:///home/linux1/recipes/ci/jinja2_1610990516718/work
+joblib==0.15.1
+MarkupSafe @ file:///opt/concourse/worker/volumes/live/fac44ebc-60de-4182-7f89-29bb8796c554/volume/markupsafe_1607027351541/work
+mkl-fft==1.3.1
+mkl-random @ file:///opt/concourse/worker/volumes/live/0cda23d8-7460-44b2-7e5d-3c76a8a0ca7e/volume/mkl_random_1626186083266/work
+mkl-service==2.4.0
+numpy @ file:///opt/concourse/worker/volumes/live/a3493aeb-202b-43d0-6a51-0a73ce7c0029/volume/numpy_and_numpy_base_1649782777974/work
+python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
+pytz==2019.3
+scikit-learn @ file:///opt/concourse/worker/volumes/live/cffa5efe-beec-4a37-5774-350794e43990/volume/scikit-learn_1642617139916/work
+scipy @ file:///opt/concourse/worker/volumes/live/9284487f-601d-4bc3-5556-535c4949d341/volume/scipy_1641557769615/work
+six @ file:///opt/concourse/worker/volumes/live/1ace91d1-06ad-4b32-5514-10b903e2de65/volume/six_1605201622995/work
+threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
+Werkzeug @ file:///home/ktietz/src/ci/werkzeug_1611932622770/work
+xgboost==1.5.0
