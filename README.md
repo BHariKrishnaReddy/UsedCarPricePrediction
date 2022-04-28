@@ -1,4 +1,4 @@
-# Flight Fare Prediction: 
+# Used Car Price Prediction: 
 
 ## Table of Content
   * [Demo](#demo)
@@ -12,22 +12,16 @@
 
 
 ## Demo
-Link: [https://flight-price-prediction-api.herokuapp.com/](https://flight-price-prediction-api.herokuapp.com/)
-
-[![](https://i.imgur.com/R1g2wvC.png)](https://flight-price-prediction-api.herokuapp.com/)
-
-[![](https://i.imgur.com/p0aeL6c.png)](https://flight-price-prediction-api.herokuapp.com/)
 
 ## Overview
-This is a Flask web app which predicts the price of the Used car.
+This is a Flask web app which predicts the price of the Used car.And for prediction I have used GrandientBoosting to train the model.
 
 ## Motivation
-Everyone has dreams, But only few work for their dreams & I'm in that few !.Playing games is fun solving errors is adventurous .
+Everyone has dreams, But only few work for their dreams & I'm in that few !.Playing games is fun but solving errors is adventurous and this is the real deal.
 
 ## Installation
 The Code is written in Python. No python in your local [install it](https://www.python.org/downloads/). 
-You wa
-To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
+You want use this repo the start to [clone](https://github.com/BHariKrishnaReddy/UsedCarPricePrediction.git) it by doing ...
 ```bash
 pip install -r requirements.txt
 ```
@@ -45,11 +39,11 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 │   ├── css
 ├── template
 │   ├── home.html
+├── app.py
+├── gb.pkl
+├── notebook.ipynb
 ├── Procfile
 ├── README.md
-├── app.py
-├── flight_price.ipynb
-├── flight_rf.pkl
 ├── requirements.txt
 ```
 
@@ -62,7 +56,7 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 
 ## Bug / Feature Request
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/Mandal-21/Flight-Price-Prediction/issues) here by including your search query and the expected result
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/BHariKrishnaReddy/UsedCarPricePrediction/issues) here by including your search query and the expected result
 
 ## Future Scope
 
