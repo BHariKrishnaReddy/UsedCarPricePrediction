@@ -12,6 +12,12 @@
 
 
 ## Demo
+Visti My live site for [UsedcarPricePrediction](https://usedcarpriceprediction1.herokuapp.com).
+
+<img width="1434" alt="HomePage" src="https://user-images.githubusercontent.com/45511185/167059700-7ef618a1-2df1-41e0-96ef-50aa52241771.png" href="https://usedcarpriceprediction1.herokuapp.com">
+
+<img width="1438" alt="Price" src="https://user-images.githubusercontent.com/45511185/167059901-37a663f9-b34e-4f82-baff-892225a18333.png" href="https://usedcarpriceprediction1.herokuapp.com">
+
 
 ## Overview
 This is a Flask web app which predicts the price of the Used car.And for prediction I have used GrandientBoosting to train the model.
@@ -27,11 +33,15 @@ pip install -r requirements.txt
 ```
 
 ## Deployement on Heroku
-Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
+Login or signup in order to deploy and create virtual app in Heroku. You can either connect your github profile or manually deploy the project using Heroku CLI.
 
 [![](https://i.imgur.com/dKmlpqX.png)](https://heroku.com)
 
-Our next step would be to follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
+Our next step would be to follow the instruction given on [Heroku CLI Documentation](https://devcenter.heroku.com/articles/heroku-cli) to deploy a web app.
+
+### Other ways to deploy
+  * [Docker](https://docs.docker.com/language/java/deploy/)
+  * [Streamlit](https://docs.streamlit.io/streamlit-cloud/get-started/deploy-an-app)
 
 ## Directory Tree 
 ```
@@ -56,10 +66,10 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 
 ## Bug / Feature Request
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/BHariKrishnaReddy/UsedCarPricePrediction/issues) here by including your search query and the expected result
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/BHariKrishnaReddy/UsedCarPricePrediction/issues) here by including your search query and the expected result.You can find an other version of notebook [here](https://www.kaggle.com/code/harikrishnareddyb/eda-and-rf).
 
 ## Future Scope
 
-* Use multiple Algorithms
+* Use multiple Algorithms to make the prediction more accurate
 * Optimize Flask app.py
-* Front-End 
+* Enhance Front-End for better interaction !
