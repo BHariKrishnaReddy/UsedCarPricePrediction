@@ -12,7 +12,7 @@
 
 
 ## Demo
-Visit My live site for [UsedcarPricePrediction](https://usedcarpriceprediction1.herokuapp.com).
+Visit My live site [UsedcarPricePrediction](https://usedcarpriceprediction1.herokuapp.com)
 
 <img width="1434" alt="HomePage" src="https://user-images.githubusercontent.com/45511185/167059700-7ef618a1-2df1-41e0-96ef-50aa52241771.png" href="https://usedcarpriceprediction1.herokuapp.com">
 
@@ -23,7 +23,7 @@ Visit My live site for [UsedcarPricePrediction](https://usedcarpriceprediction1.
 This is a Flask web app which predicts the price of the Used car.And for prediction I have used GrandientBoosting to train the model.
 
 ## Motivation
-Everyone has dreams, But only few work for their dreams & I'm in that few !.Playing games is fun but solving errors is adventurous and this is the real deal. And important thing If you need a Motivation to get started then you should change a little bit !
+Everyone has dreams, But only few work for their dreams & I'm in that few !.Playing games is fun but solving errors is adventurous and this is the real deal. And important thing Dreams don't work unless you do !
 
 ## Installation
 The Code is written in Python. No python in your local [install it](https://www.python.org/downloads/). 
